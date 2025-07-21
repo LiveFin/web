@@ -4,57 +4,64 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Effective Date: July 12, 2025
+Last Updated: July 12, 2025
 
-<br>
+LiveFin (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect information from users (“you”) of the LiveFin app, available on the Apple App Store.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+1. Information We Collect
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+LiveFin is a client for connecting to your self-hosted Jellyfin server. We do not collect or store any personally identifiable information on our servers.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+However, the app may access and temporarily use the following data for core functionality:
 
-<br>
+a. Information You Provide
+	•	Server Connection Details: When you manually enter your Jellyfin server URL and login credentials, this information is stored locally on your device to allow future connections.
+	•	Device Name and ID: Used to register your device with your Jellyfin server. This information is not transmitted to any third-party services.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+b. Automatically Collected Data
+	•	App Activity: We may use Apple-provided analytics (if you’ve opted in) to understand general app usage patterns (e.g., crashes, time spent in app).
+	•	Error Logs: In case of crashes, we may collect anonymous diagnostic data to improve app stability.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+2. How We Use Your Information
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We use your data only for the following purposes:
+	•	To connect you to your Jellyfin server.
+	•	To improve app functionality and performance.
+	•	To remember your preferences locally on your device.
 
-<br>
+We do not sell, rent, or share your personal information with third parties.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+3. Data Storage and Security
+	•	All connection and authentication information is stored securely on your device.
+	•	No user data is stored or processed on external servers controlled by LiveFin.
+	•	LiveFin uses standard iOS security features like Keychain and secure storage APIs.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+4. Third-Party Services
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+LiveFin relies solely on your Jellyfin server to deliver content. We do not integrate with third-party tracking SDKs, ad services, or analytics providers outside of Apple’s optional system-level analytics.
 
-<br>
+5. Children’s Privacy
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+LiveFin does not collect any data from children under the age of 13. 
 
-<br>
+6. Your Rights and Choices
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+You can:
+	•	Delete app data by removing the app from your device.
+	•	Clear saved credentials.
+	•	Opt-out of Apple’s system analytics via your device settings.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or your data, you can contact us at:
+
+Email: kpgamingz@icloud.com
+GitHub: https://github.com/your-username/livefin
+Support: In-app “About” section
+
+⸻
+
+Note: This privacy policy may be updated from time to time. We encourage you to check back periodically for any changes.
