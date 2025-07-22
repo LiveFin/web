@@ -4,10 +4,10 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-# Privacy Policy
+**Effective Date:** July 23, 2025 <br>
+**Last Updated:** July 21, 2025
 
-Effective Date: July 12, 2025
-Last Updated: July 12, 2025
+# Privacy Policy
 
 LiveFin (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect information from users (“you”) of the LiveFin app, available on the Apple App Store.
 
@@ -56,10 +56,11 @@ You can:
 
 ## 7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or your data, you can contact us at:
+If you have any questions or concerns about this Privacy Policy or your data, you can contact the developer at:
 
 Email: kpgamingz@icloud.com <br>
-Support: Discord
+Discord: https://discord.com/invite/xGdey3dxQN <br>
+X (formerly Twitter): [https://x.com/kpgamingz|kpgamingz]
 
 ⸻
 
