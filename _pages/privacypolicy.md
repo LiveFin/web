@@ -4,44 +4,44 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Effective Date:** July 23, 2025 <br>
-**Last Updated:** July 21, 2025
+**Effective Date:** November 29, 2025 <br>
+**Last Updated:** November 29, 2025
 
 # Privacy Policy
 
-LiveFin (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect information from users (“you”) of the LiveFin app, available on the Apple App Store.
+The Privacy Policy of LiveFin is listed below, outlining how the app uses data for its functionality.
 
-## 1. Information We Collect
+## 1. Information The App Collects
 
-LiveFin is a client for connecting to your self-hosted Jellyfin server. We do not collect or store any personally identifiable information on our servers.
+LiveFin is a client for connecting to your self-hosted Jellyfin server. It does not collect or store any personally identifiable information and sends it towards the developer.
 
 However, the app may access and temporarily use the following data for core functionality:
 
 ### a. Information You Provide
-- Server Connection Details: When you manually enter your Jellyfin server URL and login credentials, this information is stored locally on your device to allow future connections.
+- Server Connection Details: When you manually enter your Jellyfin server URL and login credentials, this information is stored locally on your devices through iCloud to allow future connections.
 - Device Name and ID: Used to register your device with your Jellyfin server. This information is not transmitted to any third-party services.
 
 ### b. Automatically Collected Data
 - App Activity: We may use Apple-provided analytics (if you’ve opted in) to understand general app usage patterns (e.g., crashes, time spent in app).
 - Error Logs: In case of crashes, we may collect anonymous diagnostic data to improve app stability.
 
-## 2. How We Use Your Information
+## 2. How The App Use Your Information
 
-We use your data only for the following purposes:
+The app uses your data only for the following purposes:
 - To connect you to your Jellyfin server.
 - To improve app functionality and performance.
 - To remember your preferences locally on your device.
 
-We do not sell, rent, or share your personal information with third parties.
+The app does not sell, rent, or share your personal information with third parties.
 
 ## 3. Data Storage and Security
 - All connection and authentication information is stored securely on your device.
-- No user data is stored or processed on external servers controlled by LiveFin.
+- No user data is stored or processed on external servers controlled by the developer.
 - LiveFin uses standard iOS security features like Keychain and secure storage APIs.
 
 ## 4. Third-Party Services
 
-LiveFin relies solely on your Jellyfin server to deliver content. We do not integrate with third-party tracking SDKs, ad services, or analytics providers outside of Apple’s optional system-level analytics.
+LiveFin relies solely on your Jellyfin server to deliver content. It does not integrate with third-party tracking SDKs, ad services, or analytics providers outside of Apple’s optional system-level analytics.
 
 ## 5. Children’s Privacy
 
@@ -60,7 +60,7 @@ If you have any questions or concerns about this Privacy Policy or your data, yo
 
 Email: kpgamingz@icloud.com <br>
 Discord: https://discord.com/invite/xGdey3dxQN <br>
-X (formerly Twitter): [https://x.com/kpgamingz|kpgamingz]
+X (formerly Twitter): https://x.com/kpgamingz
 
 ⸻
 
