@@ -1,4 +1,3 @@
-One year later
 It’s hard to believe that just a year ago, I had a thought of a Jellyfin client that played my Live TV channels and had a general feeling of a cable TV platform. 
 
 That was the beginning of the journey for the project I called LiveFin, a word that connects Live TV and Jellyfin together. I had a purpose and agenda for this project and so far it’s been great…
