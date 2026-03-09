@@ -35,12 +35,12 @@ Let me just say one thing. I grew up in an environment where we value pro-art. I
 
 A lot of you might go “boo another AI Jellyfin client” thing on Reddit. Honestly, that’s totally fine. If you decide to no longer use the app either because of AI or your privacy (everything in the app since the inception has been running your server locally not to any data center; but please read the Privacy Policy), that is totally fine. This is why we use Jellyfin in the first place, to have and make choices of how and where we consume content. 
 
-If you are continuing to use the app, the next release, 2.3, will feature a new video player and of course optimizations. 
+If you are continuing to use the app, the next release, 2.2, will feature a new video player and of course optimizations. 
 
 LiveFin at the core was always supposed to be a  passion project of making a better Live TV experience for Jellyfin users and I hope that you all will understand these decisions. And hopefully you will stick around for the many advances that I plan while growing as a future developer to make a reality in the future. 
 
 I also want to share deep gratitude to all of the original beta testers for their continued support. 
 
-Thank you again  for reading and I hope to see you all on the other side on 2.3
+Thank you again  for reading and I hope to see you all on the other side on 2.2
 
 -KP
